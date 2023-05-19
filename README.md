@@ -7,6 +7,10 @@ The configuration files (Neural Network architectures) used in this research stu
 
 The dataset used in the paper can be found at Mendeley Data (open-source dataset repository). Please click on the link. 
 
-Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose. Reference citation: 
+Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose.
 
-**Rai, Nitin;** Sun, Xin; Cannayen, Igathinathane; Howatt, Kirk; Ostlie, Michael (2023), “SpotWeeds Annotated Dataset - Journal of the ASABE”, Mendeley Data, V1, doi: 10.17632/m7g3yvzcs7.1.
+### Data citation reference:
+**Rai, N.,** Sun, X., Igathinathane, C., Howatt, K., Ostlie, M. (2023). SpotWeeds Annotated Dataset - Journal of the ASABE. Mendeley Data, V1, doi: 10.17632/m7g3yvzcs7.1.
+
+### Paper citation reference:
+**Rai, N.,** Sun, X., Igathinathane, C., Howatt, K., Ostlie, M. (2023). Aerial-based weed detection using low-cost and lightweight deep learning models on an edge platform. Journal of the ASABE. doi: xxx
