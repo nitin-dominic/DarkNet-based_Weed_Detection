@@ -5,7 +5,11 @@ This repository consists of open-source DarkNet-based implementation of the pape
 The configuration files (lightweight architecture) used in this research study needs to be merged with the original repository of [DarkNet YOLOv4](https://github.com/AlexeyAB/darknet). Once you have cloned the repository, you can bring in the dataset and start training the dataset with appropriate hyperparameter tunings/tweakings. We have also added a folder called Validation_metrics which displays all the screenshots of the metrics obtained after training on our dataset. Please refer to the original repository for more details.  
 
 
-The dataset used in the paper can be found at Mendeley Data (open-source dataset repository). Please click on the link. 
+The dataset used in the paper can be found at Mendeley Data (open-source dataset repository). Please click on the link.
+
+Open-source weed image dataset used in this ressearch study:
+
+
 
 Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose.
 
