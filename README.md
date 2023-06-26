@@ -9,7 +9,7 @@ The dataset used in the paper can be found at Mendeley Data (open-source dataset
 
 Sample of weed image dataset used in this ressearch study and published on Mendeley Data:
 
-![Ragweed-1](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed2.png?token=GHSAT0AAAAAACC33YWNWOCUNIINWP54TTQOZEY2T7A)
+![Ragweed-1](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed1.png?token=GHSAT0AAAAAACC33YWNSKIB2ES77UCC7JMYZEY3A6Q)
 ![Ragweed-2](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed3.png?token=GHSAT0AAAAAACC33YWMI2DQ5SMXYTLGNOXYZEY2WDA)
 ![Ragweed-3](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed4.png?token=GHSAT0AAAAAACC33YWMPAAUSXXG3PR5ZCCKZEY2XXA)
 
