@@ -7,10 +7,11 @@ The configuration files (lightweight architecture) used in this research study n
 
 The dataset used in the paper can be found at Mendeley Data (open-source dataset repository). Please click on the link.
 
-Open-source weed image dataset used in this ressearch study:
+Sample of weed image dataset used in this ressearch study and published on Mendeley Data:
 
-![Ragweed-1.jpg](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed2.png?token=GHSAT0AAAAAACC33YWNWOCUNIINWP54TTQOZEY2T7A)
+![Ragweed-1](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed2.png?token=GHSAT0AAAAAACC33YWNWOCUNIINWP54TTQOZEY2T7A)
 ![Ragweed-2](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed3.png?token=GHSAT0AAAAAACC33YWMI2DQ5SMXYTLGNOXYZEY2WDA)
+![Ragweed-3](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed4.png?token=GHSAT0AAAAAACC33YWMPAAUSXXG3PR5ZCCKZEY2XXA)
 
 Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose.
 
