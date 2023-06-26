@@ -4,7 +4,6 @@ This repository consists of open-source DarkNet-based implementation of the pape
 
 The configuration files (lightweight architecture) used in this research study needs to be merged with the original repository of [DarkNet YOLOv4](https://github.com/AlexeyAB/darknet). Once you have cloned the repository, you can bring in the dataset and start training the dataset with appropriate hyperparameter tunings/tweakings. We have also added a folder called Validation_metrics which displays all the screenshots of the metrics obtained after training on our dataset. Please refer to the original repository for more details.  
 
-
 The dataset used in the paper can be found at Mendeley Data (open-source dataset repository). Please click on the link.
 
 Sample of weed image dataset used in this ressearch study and published on Mendeley Data:
@@ -15,7 +14,7 @@ Sample of weed image dataset used in this ressearch study and published on Mende
 
 Figure. Represents high-resolution aerial images used for annotation purpose, (a) yellow --- ragweed, (b) violet --- horseweed, and (c) pink --- kochia.
 
-# Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose.
+# !!! Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose !!!
 
 ### Data citation reference:
 **Rai, N.,** Sun, X., Igathinathane, C., Howatt, K., Ostlie, M. (2023). SpotWeeds Annotated Dataset - Journal of the ASABE. Mendeley Data, V1, doi: 10.17632/m7g3yvzcs7.1.
