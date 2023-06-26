@@ -1,4 +1,4 @@
-# DarkNet-based_Weed_Detection
+# DarkNet Framework-based Weed Detection
 
 This repository consists of open-source DarkNet-based implementation of the paper published in the Journal of the ASABE. It consists of the configuration files and the dataset in YOLO (*.txt*) format for other researchers to develop and deploy Deep Learning-based weed detection approach. Please feel free to use the dataset but do remember to cite us in your work!
 
