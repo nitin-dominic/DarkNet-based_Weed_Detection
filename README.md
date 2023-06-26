@@ -13,7 +13,7 @@ Sample of weed image dataset used in this ressearch study and published on Mende
 ![Ragweed-2](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed3.png?token=GHSAT0AAAAAACC33YWNIFDEERKGHQ4TK7IMZEY3B2A)
 ![Ragweed-3](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed4.png?token=GHSAT0AAAAAACC33YWMESE7HVXFYFEZWLGOZEY3CRQ)
 
-Figure. Represents high-resolution aerial images used for annotation purpose, (a) 
+Figure. Represents high-resolution aerial images used for annotation purpose, (a) yellow --- ragweed, (b) violet --- horseweed, and (c) pink --- kochia.
 
 **Please cite us if you plan to either merge this with your custom dataset or reproduce this study for your research work purpose.**
 
