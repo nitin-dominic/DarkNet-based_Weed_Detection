@@ -9,7 +9,7 @@ The dataset used in the paper can be found at Mendeley Data (open-source dataset
 Sample of weed image dataset used in this ressearch study and published on Mendeley Data:
 
 ![Ragweed-1](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed1.png?token=GHSAT0AAAAAACC33YWNS27RTGMQZYRWI4CWZGOXQSQ)
-![Ragweed-2](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed3.png?token=GHSAT0AAAAAACC33YWNIFDEERKGHQ4TK7IMZEY3B2A)
+![Ragweed-2](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed2.png?token=GHSAT0AAAAAACC33YWMIVBSKN7RNLDCS3RQZGOXRIQ)
 ![Ragweed-3](https://raw.githubusercontent.com/nitin-dominic/DarkNet-based_Weed_Detection/main/ragweed4.png?token=GHSAT0AAAAAACC33YWMESE7HVXFYFEZWLGOZEY3CRQ)
 
 Figure. Represents high-resolution aerial images used for annotation purpose, (a) yellow --- ragweed, (b) violet --- horseweed, and (c) pink --- kochia.
