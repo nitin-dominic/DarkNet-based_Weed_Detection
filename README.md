@@ -20,4 +20,4 @@ Figure. Represents high-resolution aerial images used for annotation purpose. Fo
 **Rai, N.,** Sun, X., Igathinathane, C., Howatt, K., Ostlie, M. (2023). SpotWeeds Annotated Dataset - Journal of the ASABE. Mendeley Data, V1, doi: 10.17632/m7g3yvzcs7.1.
 
 ### Paper citation reference:
-**Rai, N.,** Sun, X., Igathinathane, C., Howatt, K., Ostlie, M. (2023). Aerial-based weed detection using low-cost and lightweight deep learning models on an edge platform. Journal of the ASABE. doi: xxx
+**Rai, N.,** Sun, X., Igathinathane, C., Howatt, K., Ostlie, M. (2023). Aerial-based weed detection using low-cost and lightweight deep learning models on an edge platform. ***J. ASABE***., ***66***(5). DoI: https://doi.org/10.13031/ja.15413.
